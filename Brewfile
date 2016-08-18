@@ -1,122 +1,137 @@
-ansible
-gnutls
-node
-arm
-go
-ntopng
-autoconf
-gobject-introspection
-openssl
-automake
-godep
-p7zip
-awscli
-gpg-agent
-packer
-bash-git-prompt
-harfbuzz
-pango
-bfg
-htop-osx
-passenger
-boost
-hub
-pcre
-cairo
-icu4c
-pinentry
-cloc
-imagemagick
-pixman
-collectd
-jpeg
-pkg-config
-cscope
-json-c
-popt
-csshx
-json-glib
-pth
-curl
-keybase
-pwgen
-dirmngr
-lame
-qt
-docker
-libassuan
-rbenv
-docker-compose
-libav
-rdiff-backup
-docker-machine
-libevent
-readline
-docker-swarm
-libffi
-reaver
-dpkg
-libgcrypt
-redis
-erlang
-libgpg-error
-rrdtool
-exercism
-libiconv
-ruby-build
-faac
-libidn
-skipfish
-ffmpeg
-libksba
-sqlite
-fontconfig
-libpng
-surfraw
-freeimage
-librsync
-sysdig
-freetype
-libssh
-tcpflow
-geoip
-libtasn1
-terraform
-gettext
-libtiff
-the_silver_searcher
-gh
-libtool
-tmate
-gibo
-libusb
-tree
-git
-libusb-compat
-unixodbc
-git-extras
-libvo-aacenc
-unrar
-git-flow
-libyaml
-wget
-git-lfs
-luajit
-wxmac
-gitsh
-lynx
-x264
-glib
-macvim
-xvid
-gmp
-msgpack
-xz
-gnu-tar
-mysql
-youtube-dl
-gnupg
-nettle
-zeromq
-gnupg2
-nmap
+# Homebrew taps
+tap "caskroom/cask"
+tap "homebrew/binary"
+tap "homebrew/boneyard"
+tap "homebrew/bundle"
+tap "homebrew/core"
+tap "homebrew/dupes"
+tap "homebrew/science"
+tap "homebrew/services"
+tap "homebrew/versions"
+tap "thoughtbot/formulae"
+# Homebrew Packages
+brew "ansible"
+brew "arm"
+brew "autoconf"
+brew "automake"
+brew "awscli"
+brew "bash-git-prompt"
+brew "bfg"
+brew "boost"
+brew "cairo"
+brew "cloc"
+brew "collectd"
+brew "cscope"
+brew "csshx"
+brew "curl"
+brew "devtodo"
+brew "dirmngr"
+brew "dpkg"
+brew "erlang"
+brew "exercism"
+brew "faac"
+brew "ffmpeg"
+brew "fontconfig"
+brew "freeimage"
+brew "freetype"
+brew "gdbm"
+brew "geoip"
+brew "gettext"
+brew "gh"
+brew "gibo"
+brew "git"
+brew "git-extras"
+brew "git-flow"
+brew "git-lfs"
+brew "gitsh"
+brew "glib"
+brew "gmp"
+brew "gnu-tar"
+brew "gnupg"
+brew "gnupg2"
+brew "gnutls"
+brew "go"
+brew "gobject-introspection"
+brew "godep"
+brew "gpg-agent"
+brew "harfbuzz"
+brew "htop-osx"
+brew "hub"
+brew "icu4c"
+brew "imagemagick"
+brew "iproute2mac"
+brew "jpeg"
+brew "json-c"
+brew "json-glib"
+brew "jsoncpp"
+brew "keybase"
+brew "lame"
+brew "libassuan"
+brew "libav"
+brew "libevent"
+brew "libffi"
+brew "libgcrypt"
+brew "libgpg-error"
+brew "libiconv"
+brew "libidn"
+brew "libksba"
+brew "libpng"
+brew "librsync"
+brew "libssh"
+brew "libtasn1"
+brew "libtiff"
+brew "libtool"
+brew "libusb"
+brew "libusb-compat"
+brew "libvo-aacenc"
+brew "libyaml"
+brew "luajit"
+brew "lynx"
+brew "macvim"
+brew "mas"
+brew "msgpack"
+brew "mysql"
+brew "nettle"
+brew "nmap"
+brew "node"
+brew "ntopng"
+brew "openssl"
+brew "p7zip"
+brew "packer"
+brew "pango"
+brew "passenger"
+brew "pcre"
+brew "pinentry"
+brew "pixman"
+brew "pkg-config"
+brew "popt"
+brew "pth"
+brew "pwgen"
+brew "python"
+brew "qt"
+brew "rbenv"
+brew "rbenv-default-gems"
+brew "rdiff-backup"
+brew "readline"
+brew "reaver"
+brew "redis"
+brew "rrdtool"
+brew "ruby-build"
+brew "skipfish"
+brew "sqlite"
+brew "surfraw"
+brew "sysdig"
+brew "tcpflow"
+brew "terraform"
+brew "the_silver_searcher"
+brew "tmate"
+brew "tree"
+brew "unixodbc"
+brew "unrar"
+brew "wget"
+brew "wxmac"
+brew "x264"
+brew "xvid"
+brew "xz"
+brew "youtube-dl"
+brew "zeromq"
