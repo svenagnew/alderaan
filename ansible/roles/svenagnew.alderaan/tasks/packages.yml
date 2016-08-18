@@ -1,0 +1,3 @@
+---
+- name: "Install files using Homebrew"
+  command: bundle install && brew bundle # to get Brewfile items installed

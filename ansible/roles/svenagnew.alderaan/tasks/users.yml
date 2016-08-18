@@ -1,0 +1,4 @@
+---
+
+- name: I can log into my new system
+  user: name=sven comment="Sven Agnew"
