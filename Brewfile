@@ -1,3 +1,4 @@
+# Brewfile for Alderaan
 # Homebrew taps
 tap "caskroom/cask"
 tap "homebrew/binary"
@@ -125,6 +126,7 @@ brew "tcpflow"
 brew "terraform"
 brew "the_silver_searcher"
 brew "tmate"
+brew "todo-txt"
 brew "tree"
 brew "unixodbc"
 brew "unrar"
